@@ -1,4 +1,16 @@
 {
+  "# Flavor": {
+    "type": "modpack"
+  },
+  "# Old Timer": {
+    "type": "modpack"
+  },
+  "# Optimizations": {
+    "type": "modpack"
+  },
+  "# Shut It": {
+    "type": "modpack"
+  },
   "As-Is FoW": {
     "type": "mod"
   },
